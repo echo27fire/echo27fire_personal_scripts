@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
-
-@echo27fire
-echo27fire
-/
-linux-personal-config1
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-linux-personal-config1/inst2.sh
-@echo27fire
-echo27fire Update inst2.sh
-Latest commit 86e1d6f 15 days ago
- History
- 1 contributor
-77 lines (63 sloc)  2.28 KB
-
 #!/bin/bash
 echo "script needs to be run as root"
 
