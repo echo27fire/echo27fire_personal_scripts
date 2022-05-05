@@ -1,0 +1,16 @@
+$TTL 200
+@	IN SOA server.example.local. goodspeedslackt1458@connect.durhamtech.edu (
+1 ; serial
+1D ; refresh
+1h ; retry
+1W ; expire
+3H ; minimum
+)
+
+@	IN 	NS server.example.local.
+server	IN 	A 192.168.19.41
+
+
+gateway IN 	A 192.168.16.1
+client  IN 	A 192.168.19.21
+nos125  IN	A 192.168.19.31
